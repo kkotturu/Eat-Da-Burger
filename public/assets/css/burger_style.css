@@ -1,0 +1,41 @@
+body {
+    background-color: #c1e9dc;
+  }
+  
+  img {
+    height: 250px;
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;    
+  }
+  
+  .order_font {
+    color: black;
+    font-family: 'Times New Roman', Times, serif; 
+  }
+   
+  .tiny_text {
+    font-size: 11px;
+    color: #c9e1ba;
+  }
+
+  h1,h4{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  button{
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .form-control{
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .btn-style{
+    background-color: rgb(250, 156, 156);
+  }
+
+  .order-btn{
+background-color: black;
+  }
